@@ -3,9 +3,10 @@ import styled from 'styled-components';
 export const Section = styled.section`
   background-image: url('/easybank-landing-page-master/images/bg-intro-mobile.svg');
   background-size: cover;
-  background-position: 0 30%;
+  background-repeat: no-repeat;
+  background-position: 0 -40px;
   width: 100vw;
-  height: 50vh;
+  height: 320px;
 `;
 
 export const Img = styled.img`
