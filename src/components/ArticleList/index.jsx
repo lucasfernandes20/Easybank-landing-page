@@ -4,7 +4,7 @@ import ArticleCard from '../AticleCard';
 import articles from '../../data/Articles';
 
 const ArticleList = () => (
-  <Section>
+  <Section id="Blog">
     <H1>
       Latest Articles
     </H1>

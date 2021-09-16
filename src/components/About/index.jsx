@@ -4,7 +4,7 @@ import {
 } from './styles';
 
 const About = () => (
-  <Section>
+  <Section id="About">
     <Div>
       <H1>Why choose Easybank?</H1>
       <P>

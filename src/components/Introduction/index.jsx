@@ -4,7 +4,7 @@ import {
 } from './styles';
 
 const Introduction = () => (
-  <Section>
+  <Section id="Intro">
     <Div>
       <H1>Next generation digital banking</H1>
       <P>

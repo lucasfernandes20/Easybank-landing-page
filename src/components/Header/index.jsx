@@ -3,7 +3,7 @@ import Logo from '../IconsHeader';
 import HeaderSection from './styles';
 
 const Header = () => (
-  <HeaderSection>
+  <HeaderSection id="Home">
     <Logo />
   </HeaderSection>
 );
