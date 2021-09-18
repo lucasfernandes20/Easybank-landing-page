@@ -5,7 +5,7 @@ import { Section, A, Button } from './styles';
 const ModalContent = ({ close }) => (
   <Section>
     <Button type="button" onClick={() => close()}>
-      <img style={{ backgroundColor: 'white' }} src="/easybank-landing-page-master/images/icon-close.svg" alt="x" />
+      <img style={{ backgroundColor: 'white' }} src="./easybank-landing-page-master/images/icon-close.svg" alt="x" />
     </Button>
     <A onClick={() => close()} href="#Home">Home</A>
     <A onClick={() => close()} href="#About">About</A>
