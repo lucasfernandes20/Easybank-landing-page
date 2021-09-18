@@ -13,7 +13,7 @@ const About = () => (
       </P>
       <Cards>
         <Card>
-          <Img src="/easybank-landing-page-master/images/icon-online.svg" alt="online" />
+          <Img src="./easybank-landing-page-master/images/icon-online.svg" alt="online" />
           <H2>Online Banking</H2>
           <P>
             Our modern web and mobile applications allow you to keep track of your finances
@@ -21,7 +21,7 @@ const About = () => (
           </P>
         </Card>
         <Card>
-          <Img src="/easybank-landing-page-master/images/icon-budgeting.svg" alt="online" />
+          <Img src="./easybank-landing-page-master/images/icon-budgeting.svg" alt="online" />
           <H2>Simple Budgeting</H2>
           <P>
             See exactly where your money goes each month. Receive notifications when you’re
@@ -29,7 +29,7 @@ const About = () => (
           </P>
         </Card>
         <Card>
-          <Img src="/easybank-landing-page-master/images/icon-onboarding.svg" alt="online" />
+          <Img src="./easybank-landing-page-master/images/icon-onboarding.svg" alt="online" />
           <H2>Fast Onboarding</H2>
           <P>
             We don’t do branches. Open your account in minutes online and start taking control
@@ -37,7 +37,7 @@ const About = () => (
           </P>
         </Card>
         <Card>
-          <Img src="/easybank-landing-page-master/images/icon-api.svg" alt="online" />
+          <Img src="./easybank-landing-page-master/images/icon-api.svg" alt="online" />
           <H2>Open API</H2>
           <P>
             Manage your savings, investments, pension, and much more from one account. Tracking

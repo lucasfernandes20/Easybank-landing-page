@@ -1,14 +1,14 @@
 import styled from 'styled-components';
 
 export const Section = styled.section`
-  background-image: url('/easybank-landing-page-master/images/bg-intro-mobile.svg');
+  background-image: url('./easybank-landing-page-master/images/bg-intro-mobile.svg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 -40px;
   width: 100vw;
   height: 320px;
   @media(min-width: 900px) {
-    background-image: url('/easybank-landing-page-master/images/bg-intro-desktop.svg');
+    background-image: url('./easybank-landing-page-master/images/bg-intro-desktop.svg');
     height: 36vw;
     width: 50vw;
     background-position: -4vw -16vw;

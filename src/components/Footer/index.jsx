@@ -6,13 +6,13 @@ import {
 const Footer = () => (
   <FooterSection id="Support">
     <Content>
-      <Logo src="/easybank-landing-page-master/images/logo.svg" alt="Logo" />
+      <Logo src="./easybank-landing-page-master/images/logo.svg" alt="Logo" />
       <Div>
-        <Img src="/easybank-landing-page-master/images/icon-facebook.svg" alt="Facebook icon" />
-        <Img src="/easybank-landing-page-master/images/icon-youtube.svg" alt="Youtube icon" />
-        <Img src="/easybank-landing-page-master/images/icon-twitter.svg" alt="Twitter icon" />
-        <Img src="/easybank-landing-page-master/images/icon-pinterest.svg" alt="Pinterest icon" />
-        <Img src="/easybank-landing-page-master/images/icon-instagram.svg" alt="Instagram icon" />
+        <Img src="./easybank-landing-page-master/images/icon-facebook.svg" alt="Facebook icon" />
+        <Img src="./easybank-landing-page-master/images/icon-youtube.svg" alt="Youtube icon" />
+        <Img src="./easybank-landing-page-master/images/icon-twitter.svg" alt="Twitter icon" />
+        <Img src="./easybank-landing-page-master/images/icon-pinterest.svg" alt="Pinterest icon" />
+        <Img src="./easybank-landing-page-master/images/icon-instagram.svg" alt="Instagram icon" />
       </Div>
     </Content>
     <Content Link>
