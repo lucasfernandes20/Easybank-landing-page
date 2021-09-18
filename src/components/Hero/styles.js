@@ -9,12 +9,14 @@ export const Section = styled.section`
   height: 320px;
   @media(min-width: 900px) {
     background-image: url('/easybank-landing-page-master/images/bg-intro-desktop.svg');
-    height: 80vh;
-    background-position: 42vw -16vw;
+    height: 36vw;
+    width: 50vw;
+    background-position: -4vw -16vw;
     background-repeat: no-repeat;
     background-size: 70vw;
     display: flex;
     justify-content: flex-end;
+    order: 1;
   }
 `;
 
@@ -25,6 +27,7 @@ export const Img = styled.img`
   object-position: 0 95%;
   @media(min-width: 900px) {
     width: 45vw;
+    height: 45vw;
     margin: auto;
     object-position: 7vw -10vw;
     position: absolute;

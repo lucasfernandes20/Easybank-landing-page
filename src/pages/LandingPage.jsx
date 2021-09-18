@@ -5,12 +5,15 @@ import Introduction from '../components/Introduction';
 import About from '../components/About';
 import ArticleList from '../components/ArticleList';
 import Footer from '../components/Footer';
+import Div from '../GlobalStyles';
 
 const LandingPage = () => (
   <main>
     <Header />
-    <Hero />
-    <Introduction />
+    <Div>
+      <Hero />
+      <Introduction />
+    </Div>
     <About />
     <ArticleList />
     <Footer />

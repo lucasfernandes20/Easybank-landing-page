@@ -1,5 +1,5 @@
 import React from 'react';
-import { Section, H1 } from './styles';
+import { Section, H1, Div } from './styles';
 import ArticleCard from '../AticleCard';
 import articles from '../../data/Articles';
 
@@ -8,9 +8,11 @@ const ArticleList = () => (
     <H1>
       Latest Articles
     </H1>
-    {
-        articles.map((e) => <ArticleCard article={e} />)
-      }
+    <Div>
+      {
+      articles.map((e) => <ArticleCard key={e.img} article={e} />)
+    }
+    </Div>
   </Section>
 );
 

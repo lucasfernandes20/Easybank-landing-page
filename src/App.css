@@ -4,6 +4,10 @@
   margin: 0;
   padding: 0;
   border: 0;
+  box-sizing: border-box;
   font-family: 'Public Sans', sans-serif;
+}
 
+#root {
+  overflow: hidden;
 }
