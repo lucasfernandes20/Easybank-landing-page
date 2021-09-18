@@ -20,6 +20,8 @@ Users should be able to:
 
 ### Screenshot
 ![EasyBank-layout](https://user-images.githubusercontent.com/82236429/133908380-78fff276-9d04-4690-9b7f-5a83d26b16cf.png)
+![Screenshot 2021-09-18 at 17-11-03 React App](https://user-images.githubusercontent.com/82236429/133908620-4a13ea67-b2a9-4cfb-b611-e8c4cbcb63d0.png)
+![Screenshot 2021-09-18 at 17-09-40 React App](https://user-images.githubusercontent.com/82236429/133908633-96e264ea-7ad2-448d-9e11-edfbb1797558.png)
 
 ### Links
 
